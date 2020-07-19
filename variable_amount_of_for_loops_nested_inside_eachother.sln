@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D2DD0CF-3F55-4716-B224-C736F2E6EC92}"
+	ProjectSection(SolutionItems) = preProject
+		VariableAmountOfForLoopsNestedInsideEachOther.cs = VariableAmountOfForLoopsNestedInsideEachOther.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84656EE9-B998-4553-9A24-EDA3019628D4}
+	EndGlobalSection
+EndGlobal
