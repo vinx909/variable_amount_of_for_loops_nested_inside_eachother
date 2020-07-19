@@ -52,23 +52,6 @@ public class VariableAmountOfForLoopsNestedInsideEachOther
 
         nestedLoopContainer[loopNumber].Invoke(loopNumber);
         //here the first loop is called, which will start the nested loop.
-
-        /*
-         * for (int i = 0; i < 10; i++)
-            {
-                for (int i = 0; i < 10; i++)
-                {
-                    for (int i = 0; i < 10; i++)
-                    {
-                        for (int i = 0; i < 10; i++)
-                        {
-                            Console.Write(totalNumber + " ");
-                            totalNumber++;
-                        };
-                    }
-                }
-            }
-         */
     }
     static void variableAmountOfLoopsComplicated(int amountOfLoops, string descriptionTest)
     {
